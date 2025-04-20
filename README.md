@@ -24,13 +24,11 @@
 
 ---
 
-
 ## 🎮 Tutorial
 
-[![Watch the Video](https://img.youtube.com/vi/VoPq-lRSnd0/0.jpg)]([https://youtube.com/watch/VoPq-lRSnd0])
+[![Watch the Video](https://img.youtube.com/vi/VoPq-lRSnd0/0.jpg)](https://youtube.com/watch/VoPq-lRSnd0)
 
 ---
-
 
 ## 📦 Download
 
