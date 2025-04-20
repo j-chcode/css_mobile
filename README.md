@@ -45,7 +45,7 @@
 1. Extract the downloaded **ZIP** file.  
 2. Install all included **APK** files.  
 3. Move the `sourcemod` folder to the **root directory** of your device.  
-4. Open the **Source Engine** app and select **Counter-Strike: Source** from the list.  
+4. Open the **Source Engine** app and select **sourcemod** folder from the list.  
 5. Enjoy!
 
 ---
