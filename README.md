@@ -28,17 +28,17 @@
 
 [![Watch the Video](https://img.youtube.com/vi/VoPq-lRSnd0/0.jpg)](https://youtube.com/watch/VoPq-lRSnd0)
 
----
+----
 
 ## 📦 Download
 
 <p align="center">
   <a href="https://www.mediafire.com/file/9d17o71rex8206x/sourcemod.zip/file">
-    <img src="https://img.shields.io/badge/Download-ZIP%20Package-red?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/Download-ZIP%20Package-red?style=for-the-badge" /> <br>
   </a>
 </p>
 
----
+----
 
 ## ⚙️ How to Use
 
