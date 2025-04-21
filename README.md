@@ -10,6 +10,11 @@
   <img src="https://img.shields.io/badge/version-4-blue?style=for-the-badge" />
 </p>
 
+<h3 align="center">
+  <img src="https://img.icons8.com/ios-filled/24/ffffff/visible.png" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=j-chcode.css_mobile&left_text=Views" alt="Ziyaretçi Sayacı" style="vertical-align: middle; border-radius: 6px;" />
+</h3>
+
 <p align="center">
   <img src="https://i.servimg.com/u/f27/15/37/43/48/counte10.jpg" alt="CS Source Android Banner" width="100%" />
 </p>
@@ -37,11 +42,6 @@
     <img align="left" src="https://img.shields.io/badge/Download-ZIP%20Package-red?style=for-the-badge" /> <br>
   </a>
 </p>
-
-<h3 align="left">
-  <img src="https://img.icons8.com/ios-filled/24/ffffff/visible.png" width="20" style="vertical-align: middle; margin-right: 8px;" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=j-chcode.css_mobile&left_text=Views" alt="Ziyaretçi Sayacı" style="vertical-align: middle; border-radius: 6px;" />
-</h3>
 
 ----
 
