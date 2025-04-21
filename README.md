@@ -38,7 +38,10 @@
   </a>
 </p>
 
-![Views](https://visitor-badge.laobi.icu/badge?page_id=j-chcode.css_mobile)
+<h3 align="left">
+  <img src="https://img.icons8.com/ios-filled/24/ffffff/visible.png" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=j-chcode.css_mobile&left_text=Views" alt="Ziyaretçi Sayacı" style="vertical-align: middle; border-radius: 6px;" />
+</h3>
 
 ----
 
